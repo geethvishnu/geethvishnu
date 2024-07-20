@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Geeth Vishnu G
-A dedicated Computer Science student currently pursuing my B-Tech at Amrita University. 
+A dedicated Computer Science student currently pursuing my B-Tech in Computer Science and Engineering (CSE) at Amrita University.
 
 <!--
 **geethvishnu/geethvishnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
