@@ -47,13 +47,9 @@ A dedicated Computer Science student currently pursuing my B-Tech in Computer Sc
 
 ### 📫 How to Reach Me
 <p align="center">
-  <a href="geethvishnu999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:geethvishnu999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/geeth-vishnu-g"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geethvishnu&show_icons=true&theme=radical" alt="Geeth Vishnu's GitHub Stats">
-</p>
