@@ -2,7 +2,9 @@
 A dedicated Computer Science student currently pursuing my B-Tech in Computer Science and Engineering (CSE) at Amrita University.
 
 
-                  Transforming Ideas into Reality
+                 <p align="center" style="font-size: 24px; font-weight: bold; color: #4CAF50;">
+  Transforming Ideas into Reality
+</p>
 
 ---
 
