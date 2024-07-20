@@ -1,21 +1,6 @@
 ## Hi there 👋, I'm Geeth Vishnu G
 A dedicated Computer Science student currently pursuing my B-Tech in Computer Science and Engineering (CSE) at Amrita University.
 
-<!--
-**geethvishnu/geethvishnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ---
 
 ### 🛠 Tech Stack
@@ -57,3 +42,18 @@ Here are some ideas to get you started:
 </p>
 
 ---
+
+
+
+### 📫 How to Reach Me
+<p align="center">
+  <a href="geethvishnu999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="www.linkedin.com/in/geeth-vishnu-g"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
+
+
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=geethvishnu&show_icons=true&theme=radical" alt="Geeth Vishnu's GitHub Stats">
+</p>
