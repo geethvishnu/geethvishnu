@@ -5,7 +5,7 @@ A dedicated Computer Science student currently pursuing my B-Tech in Computer Sc
 
 ### 🛠 Tech Stack
 
-<p align="center">
+<p>
   <strong>Programming Languages</strong><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -48,7 +48,7 @@ A dedicated Computer Science student currently pursuing my B-Tech in Computer Sc
 ### 📫 How to Reach Me
 <p align="center">
   <a href="geethvishnu999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="www.linkedin.com/in/geeth-vishnu-g"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/geeth-vishnu-g"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 
